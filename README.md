@@ -1,6 +1,6 @@
 # multi-script-python-logging
 
-This repo illustrates how imported modules (.py scripts) inherit their logging format from the script which imported them (main.py).
+This repo contains a simple example illustrating how imported modules (module1.py and module.py) inherit their logging format from the script which imported them (main.py).
 
 ```python
 # module1.py # 
